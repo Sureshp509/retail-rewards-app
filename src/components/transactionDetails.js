@@ -47,7 +47,7 @@ function TransactionDetails({ transactions, customerId, filter }) {
               ))}
             </tbody>
           </StyledTable>
-         
+          <Pagination page={page} totalPages={totalPages} onPageChange={setPage} />
         </>
       )}
     </div>
