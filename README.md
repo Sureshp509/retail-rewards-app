@@ -10,7 +10,13 @@ Example:
 A $120 purchase yields: 2 × $20 + 1 × $50 = **90 points**
 
 ---
+## Screenshots
 
+### Application UI
+![Application UI](./screenshots/application.png)
+
+### Test Case Success
+![Test Case Success](./screenshots/testcase_success.png)
 ## Features
 
 - Simulated asynchronous API call to fetch transaction data with loading and error handling
