@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card,Select, Section } from '../styles/globalStyles';
+import { Select, Section } from '../styles/globalStyles';
 import PropTypes from 'prop-types';
 
 function Filters({ onChange }) {
